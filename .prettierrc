@@ -1,0 +1,8 @@
+{
+    "semi"; false,  //sin punto y coma
+    "singleQuote"; true,
+    "blacketSpacing"; true,
+    "useTabs"; true,
+    "tabWidth";4,
+    "trailingComma";"es5"
+}
